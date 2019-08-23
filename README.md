@@ -10,5 +10,6 @@ Starting a restaurant takes a lot of work, but with expert planning, you can sta
 * Discussion
 * Conclusion
 
-(See the Notebook)[https://github.com/MOAMSA/Opening-a-restaurant-in-Los-Ageles/blob/master/Opening%20a%20Resturant%20in%20LA.ipynb]
+[See the Notebook](https://github.com/MOAMSA/Opening-a-restaurant-in-Los-Ageles/blob/master/Opening%20a%20Resturant%20in%20LA.ipynb)
+
 See the Report
