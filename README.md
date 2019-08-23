@@ -4,7 +4,7 @@ In this notebook we will decide to select best places to open a restaurant in Lo
 <img src="Figures/LA.png" height="300" width="400">
 
 Many people in Los Angeles eating out at least once a week and the restaurant industry continues to thrive. 
-Starting a restaurant takes a lot of work, but with expert planning, you can start a successful restaurant business. In this regard, unsupervised machine learning would be useful. The outline is as follows:
+Starting a restaurant takes a lot of work, but with expert planning, you can start a successful restaurant business. In this regard, unsupervised machine learning would be useful. The outline of this study is as follows:
 * Business Problem
 * Introduction
 * Data and Sources
